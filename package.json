@@ -1,7 +1,7 @@
 {
   "name": "node-openshift-client",
   "version": "0.0.0",
-  "main": "lib/node-openshift-client.js",
+  "main": "index.js",
   "description": "A node wrapper around OpenShift REST API",
   "homepage": "https://github.com/shekhargulati/node-openshift-client",
   "bugs": "https://github.com/shekhargulati/node-openshift-client/issues",
