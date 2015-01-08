@@ -29,7 +29,6 @@
   },
   "dependencies": {
     "q": "~1.1.2",
-    "querystring": "~0.2.0",
-    "request": "~2.30.0"
+    "request": "~2.51.0"
   }
 }
